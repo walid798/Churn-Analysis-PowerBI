@@ -17,7 +17,7 @@ The dataset used for this analysis includes customer-related attributes such as 
 - Customer ID, Gender, Senior Citizen, Partner, Dependents
 - Tenure, Monthly Charges, Total Charges
 - Contract Type, Payment Method, Internet Services, and Churn
-Source: [(Add source if available, or specify if it's a synthetic dataset.)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- Source: (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 # Key Features and Analysis Steps
 ## Data Cleaning and Preparation:
