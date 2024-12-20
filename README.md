@@ -73,6 +73,7 @@ Developed custom DAX measures to calculate critical metrics such as churn rate, 
 - Power Query: For data cleaning and transformations.
 
 
-
+# Contributions
+Contributions, feedback, and suggestions are welcome! Feel free to fork this repository, submit issues, or create pull requests.
 
 
